@@ -56,14 +56,14 @@ A desktop Hangman game built with Python and Pygame. All visual assets — scree
 
 ## Setup and Run
 
-    # 1. Clone the repository
+     1. Clone the repository
     git clone https://github.com/experiments-and-learning/hangman-game.git
     cd hangman-game
 
-    # 2. Install Pygame
+     2. Install Pygame
     pip install pygame
 
-    # 3. Run the game
+     3. Run the game
     python hangman.py
 
 ---
